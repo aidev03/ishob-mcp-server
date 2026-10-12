@@ -45,7 +45,13 @@ Every paid tool is also a REST route on `https://api.ishob.com`. Call it unpaid 
 curl -i "https://api.ishob.com/v1/crypto/prices?tokens=ETH,SOL,BTC"   # -> 402 with price terms
 ```
 
-**Machine-readable docs:** [OpenAPI](https://api.ishob.com/openapi.json) · [MCP server card](https://api.ishob.com/.well-known/mcp.json) · [llms.txt](https://ishob.com/llms.txt)
+### Discovery links
+
+| | |
+|---|---|
+| Machine manifest (MCP server card) | https://ishob.com/.well-known/mcp.json |
+| LLM text summary | https://ishob.com/llms.txt |
+| OpenAPI spec | https://api.ishob.com/openapi.json |
 
 ---
 
