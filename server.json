@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.ishob/archive",
+  "title": "ISHOB Knowledge Archive",
+  "description": "License-checked research archive and technical-spec search for AI agents. Pay per call via x402.",
+  "version": "1.0.0",
+  "websiteUrl": "https://ishob.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.ishob.com/mcp"
+    }
+  ]
+}
