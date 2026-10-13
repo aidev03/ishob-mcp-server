@@ -150,6 +150,7 @@ Over MCP, a paid tool first returns its payment terms; the client signs and repe
 - Official MCP Registry: [`com.ishob/archive`](https://registry.modelcontextprotocol.io/v0/servers?search=com.ishob)
 - Smithery: [alicefancy6/ISHOB](https://smithery.ai/servers/alicefancy6/ISHOB)
 - PayAPI Market (verified paid route): [Wallet Risk Report](https://payapi.market/api/wallet-risk-report)
+- Hugging Face (tool catalog dataset): [za3t3r/ishob-mcp-tools](https://huggingface.co/datasets/za3t3r/ishob-mcp-tools)
 
 ## Support
 
